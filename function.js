@@ -20,3 +20,8 @@ const square=(x)=>x*x
 console.log(square(11))
 const sub=(x,y)=>x-y
 console.log(sub(5,2))
+function peek()
+{
+    console.log("happy birthday")
+}
+peek()

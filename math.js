@@ -1,0 +1,14 @@
+export const add=function (x,y)
+{
+    return x+y
+}
+export const sub=function (x,y)
+{
+    return x-y
+}
+export const mul=function (x,y)
+{
+    return x*y
+}
+const div=(x,y)=>x/y
+export default div
